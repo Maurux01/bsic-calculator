@@ -1,0 +1,11 @@
+/home/mau/Documents/bsic-calculator/calculator/target/debug/deps/libegui_glow-f6de63c2292232f4.rmeta: /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl
+
+/home/mau/Documents/bsic-calculator/calculator/target/debug/deps/egui_glow-f6de63c2292232f4.d: /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl /home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl
+
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl:
+/home/mau/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl:
